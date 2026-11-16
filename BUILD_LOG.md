@@ -14,8 +14,8 @@ Build 5 in RepoQuarry's queue. Built by a scheduled, unattended run on 16 Novemb
 | 08:43-08:45 | One MCP lookup run against the live server. Skill, routine and README written. |
 | 08:46-08:53 | Stills checked in both sizes, voiceover made (one ElevenLabs pass: 7 new lines, line 1 reused from the approved take), lines re-timed, 20 s video rendered in 16:9 and 9:16 at -14.1 LUFS. |
 | 08:53-08:57 | Cover, two pictures, six slides, guide page and posts written. |
-
-The end time and the guide's check results are in the last section.
+| 08:57-09:09 | Guide checked on its branch (`builds/altwatch`, commit f294c04). First validate failed: the builds line was over the 200-character limit. Shortened, then validate and build passed. Tests: 1,115 of 1,160 passed, 31 skipped, 14 failed. 9 are the tar-archive tests that also fail on untouched main on this PC. The other 5, and one file that didn't load, all passed when run again on their own (6 files, 159 tests). |
+| 09:10 | End of the build. Nothing pushed or posted. |
 
 ## Numbers measured
 
