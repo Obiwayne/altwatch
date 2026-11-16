@@ -8,7 +8,7 @@ Ask your Bot:
 
 > Create a routine called "Altwatch daily". Every day at 07:30 in my time zone, run the Altwatch skill's daily check. If nothing is new, send me nothing. If something is new, send one message. Run it once. Don't retry more than once if it fails.
 
-That is 7 runs a week. RepoQuarry's catalogue is updated once a night, so checking more often than daily finds nothing extra.
+That is 7 runs a week. RepoQuarry adds most new projects in a nightly job, so checking more than once a day rarely finds anything extra.
 
 ## Tell it what to watch
 
