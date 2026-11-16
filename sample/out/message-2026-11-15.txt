@@ -1,0 +1,10 @@
+Altwatch, 15 Nov 2026: 1 new open-source alternative
+
+Flowkiln, for Notion and Zapier
+  Licence: Apache-2.0 (checked 2026-11-15)
+  Use at work: Yes; Apache-2.0 allows commercial use
+  Running cost: None; you need a server to run it on
+  Covers: app-workflows, databases
+  https://repoquarry.dev/projects/flowkiln
+
+Facts come from RepoQuarry, each with a source and a check date. Licences change, so open the page before you switch.

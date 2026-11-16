@@ -1,0 +1,7 @@
+Altwatch, 14 Nov 2026: 2 new posts on your topics
+
+New in your feeds:
+- A week with a Zapier alternative on a spare laptop (Maker Notes, matched "zapier alternative")
+  https://makernotes.example/zapier-alternative-week
+- Self-hosted notes: what I run in 2026 (Homelab Weekly, matched "self-hosted notes")
+  https://homelab.example/notes-2026

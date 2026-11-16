@@ -1,0 +1,10 @@
+{
+  "tools": ["Notion", "Zapier"],
+  "feeds": [
+    {
+      "name": "RepoQuarry new and trending",
+      "url": "https://repoquarry.dev/feed.xml",
+      "keywords": ["note-taking", "automation"]
+    }
+  ]
+}

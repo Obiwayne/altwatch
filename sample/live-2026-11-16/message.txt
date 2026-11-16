@@ -1,0 +1,65 @@
+Altwatch, 16 Nov 2026: 10 new open-source alternatives
+
+Logseq, for Notion and Evernote
+  Licence: AGPL-3.0 (checked 2026-11-10)
+  Use at work: Allowed under AGPL-3.0; if you change it and run it as a network service, you must share your changed source
+  Running cost: None required; the app is free. Optional paid Logseq Sync and Publish come with OpenCollective backing ($5/month backer, $15/month sponsor), or you can self-host them
+  Covers: notes
+  https://repoquarry.dev/projects/logseq
+
+Memos, for Evernote
+  Licence: MIT (checked 2026-11-10)
+  Use at work: MIT allows commercial use
+  Running cost: None required; optional audio transcription uses your own paid OpenAI or Gemini API key
+  Covers: notes
+  https://repoquarry.dev/projects/memos
+
+Notesnook, for Evernote
+  Licence: GPL-3.0 for the apps; the separate sync server is AGPL-3.0 (checked 2026-11-10)
+  Use at work: Allowed under GPL-3.0 (changed versions you share must stay GPL); the sync server's AGPL also covers running it as a network service
+  Running cost: None required; the free plan has unlimited notes and devices with 50MB of uploads a month. Paid plans (Essential, Pro, Believer) add storage, bigger files and features
+  Covers: notes, sync
+  https://repoquarry.dev/projects/notesnook
+
+LosslessCut, for Adobe Creative Cloud
+  Licence: GPL-2.0 (GPL-2.0-only in package.json) (checked 2026-11-10)
+  Use at work: Yes; GPL-2.0 allows commercial use, and changed copies you share must stay under the GPL
+  Running cost: None required; GitHub downloads are free. The Mac App Store and Microsoft Store versions are paid, with automatic updates and signing
+  Covers: video-editing
+  https://repoquarry.dev/projects/losslesscut
+
+Shotcut, for Adobe Creative Cloud
+  Licence: GPL-3.0 (copyleft) (partly confirmed) (checked 2026-11-10)
+  Use at work: Yes; the FAQ says it is free for commercial use under GPL-3.0
+  Running cost: None required; free downloads with no account or subscription. Optional text-to-speech needs Docker installed
+  Covers: video-editing
+  https://repoquarry.dev/projects/shotcut
+
+OpenShot, for Adobe Creative Cloud
+  Licence: on the page below
+  Use at work: Yes; GPL allows commercial use, and changes you distribute must stay GPL. Optional AI models have their own terms
+  Running cost: None required; the editor is free
+  Covers: video-editing
+  https://repoquarry.dev/projects/openshot
+
+CLIProxyAPI, for Claude Code
+  RepoQuarry hasn't checked its licence or cost yet. Treat it as a lead, not a swap.
+  Covers: terminal-coding-agent, ide-integration, mcp-tool-connections
+  https://repoquarry.dev/projects/cliproxyapi
+
+Qwen-code, for Claude Code
+  RepoQuarry hasn't checked its licence or cost yet. Treat it as a lead, not a swap.
+  Covers: terminal-coding-agent, ide-integration, headless-ci-agent
+  https://repoquarry.dev/projects/qwen-code
+
+Agentes-chat, for Slack
+  RepoQuarry hasn't checked its licence or cost yet. Treat it as a lead, not a swap.
+  Covers: channels-and-dms
+  https://repoquarry.dev/projects/agentes-chat
+
+Kanzo, for Asana
+  RepoQuarry hasn't checked its licence or cost yet. Treat it as a lead, not a swap.
+  Covers: kanban-boards
+  https://repoquarry.dev/projects/kanzo
+
+Facts come from RepoQuarry, each with a source and a check date. Licences change, so open the page before you switch.

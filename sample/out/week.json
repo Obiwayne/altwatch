@@ -1,0 +1,69 @@
+{
+ "days": [
+  {
+   "date": "2026-11-09",
+   "site_change": "first run",
+   "result": "setup note",
+   "new_projects": 0,
+   "new_posts": 0,
+   "requests": 4
+  },
+  {
+   "date": "2026-11-10",
+   "site_change": "a blog post about a dog",
+   "result": "silent",
+   "new_projects": 0,
+   "new_posts": 0,
+   "requests": 4
+  },
+  {
+   "date": "2026-11-11",
+   "site_change": "nothing",
+   "result": "silent",
+   "new_projects": 0,
+   "new_posts": 0,
+   "requests": 4
+  },
+  {
+   "date": "2026-11-12",
+   "site_change": "Pagewell listed for Notion",
+   "result": "alert",
+   "new_projects": 1,
+   "new_posts": 0,
+   "requests": 5
+  },
+  {
+   "date": "2026-11-13",
+   "site_change": "nothing",
+   "result": "silent",
+   "new_projects": 0,
+   "new_posts": 0,
+   "requests": 4
+  },
+  {
+   "date": "2026-11-14",
+   "site_change": "a blog post and a reader entry on watched topics",
+   "result": "alert",
+   "new_projects": 0,
+   "new_posts": 2,
+   "requests": 4
+  },
+  {
+   "date": "2026-11-15",
+   "site_change": "Flowkiln listed for Zapier and Notion",
+   "result": "alert",
+   "new_projects": 1,
+   "new_posts": 0,
+   "requests": 5
+  }
+ ],
+ "total": {
+  "runs": 7,
+  "alerts": 3,
+  "setup_notes": 1,
+  "silent": 3,
+  "requests": 30,
+  "most_requests_in_a_run": 5,
+  "request_cap_per_run": 9
+ }
+}
